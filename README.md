@@ -7,6 +7,7 @@ Requirements:
 
 - Add an user in Mikrotik
 - Add a ssh key for that user in order to be able to ssh on the Mikrotik without the need for password
+- php package installed on the machine where running the script
 
 Usage:
 
